@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.casia-paginated-table tr {
+  display: none;
+}
+
+.border_solid-black_table td {
+	border: 1px solid black;
+}
+
+.border_solid-black_table th {
+	border: 1px solid black;
+}
+
+table.border_solid-black_table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}

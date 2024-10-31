@@ -1,0 +1,19 @@
+.display_inline {
+	display: inline;
+}
+
+.display_inline-block {
+	display: inline-block;
+}
+
+input[type="checkbox"].margin-left_25px  {
+	margin-left: 25px;
+}
+
+.margin-left_25px  {
+	margin-left: 25px;
+}
+
+.margin-right_25px {
+	margin-right: 25px;
+}
